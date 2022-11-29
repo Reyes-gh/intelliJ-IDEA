@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d05912cc-a0db-462e-a327-43cbfbd4eb3e" name="Changes" comment="Commit Ejercicio 2.2">
-      <change afterPath="$PROJECT_DIR$/intelli/DosDos/JugadorDado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intelli/DosDos/mainDados.java" afterDir="false" />
+    <list default="true" id="d05912cc-a0db-462e-a327-43cbfbd4eb3e" name="Changes" comment="Commit Ejercicio 2.3">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intelli/DosTres/hiloChosen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intelli/DosTres/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/intelliJ-IDEA/intelli/DosUno/identHilo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/intelliJ-IDEA/intelli/DosUno/identHilo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/intelliJ-IDEA/intelli/DosUno/main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,7 @@
   </component>
   <component name="ProjectId" id="2Ha1nsAMgCXasap16UgkKsdlYns" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -45,6 +45,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "11",
     "last_opened_file_path": "/home/alex/IdeaProjects/intelliJ-IDEA",
     "project.structure.last.edited": "Project",
@@ -127,7 +128,8 @@
     <MESSAGE value="Ey er comit" />
     <MESSAGE value="Commit Ejercicio 2.1" />
     <MESSAGE value="Commit Ejercicio 2.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Ejercicio 2.2" />
+    <MESSAGE value="Commit Ejercicio 2.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Ejercicio 2.3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
