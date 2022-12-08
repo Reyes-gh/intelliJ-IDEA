@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d05912cc-a0db-462e-a327-43cbfbd4eb3e" name="Changes" comment="Commit Ejercicio 2.3">
+      <change afterPath="$PROJECT_DIR$/intelli/DosCinco/Consumidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intelli/DosCinco/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intelli/DosCinco/Mostrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intelli/DosCinco/Productor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669714283038</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit Ejercicio 2.3">
+      <created>1669714549814</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669714549814</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
